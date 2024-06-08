@@ -3,11 +3,11 @@
 
 ## What This Has
 
-* Redux
-* React
-* Axios
-* Bootstrap
-* TypeScript
+- 🔁 Redux
+- ⚛️ React 18
+- ⌗ Axios
+- 👢Bootstrap
+- ⛑ TypeScript
 
 ## Prerequisites
 
